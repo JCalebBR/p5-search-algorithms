@@ -1,0 +1,10 @@
+/.vscode
+/jsconfig.json
+/node_modules
+/p5-test.js
+/p5.code-workspace
+/p5.d.ts
+/p5.global-mode.d.ts
+/p5.min.js
+/p5.pre-min.js
+/package-lock.json
